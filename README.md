@@ -71,3 +71,34 @@
 ---
 
 ## 🎯 // CORE EXPERTISE
+
+---
+
+## 🚀 // FEATURED PROJECTS
+
+### Infrastructure as Code
+Automated multi-cloud infrastructure provisioning using Terraform across AWS, GCP, and Aliyun with state management and drift detection.
+
+### CI/CD Pipeline Excellence
+End-to-end continuous integration and deployment pipelines leveraging GitHub Actions, GitLab CI, and Jenkins with security scanning and quality gates.
+
+---
+
+## 🌐 // CONNECT WITH ME
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/herbiono)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+
+**_Building the infrastructure of tomorrow, today._**
+
+<img src="https://img.shields.io/badge/Last%20Updated-2026%2D02%2D27-00FF00?style=flat-square" alt="Updated">
+
+</div>

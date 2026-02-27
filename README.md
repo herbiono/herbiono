@@ -60,14 +60,6 @@
 
 ## 📊 // SYSTEM METRICS
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=herbiono&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=herbiono&theme=tokyonight&hide_border=true&layout=compact)
-
-</div>
-
 ---
 
 ## 🎯 // CORE EXPERTISE

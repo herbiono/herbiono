@@ -1,96 +1,126 @@
 <div align="center">
 
-# ⚡ HERBIONO // CLOUD DEVOPS ARCHITECT // TEAM LEADER // MANAGER⚡
+# Yusuf Herbiono
 
+### Strategic Cloud Infrastructure Engineering Manager
 
-**_Architecting resilient infrastructure. Automating security. Leading innovation._**
+📍 Jakarta, Indonesia
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF00?style=for-the-badge&logo=github&logoColor=00FF00" alt="status">
-<img src="https://img.shields.io/badge/EXPERIENCE-MULTI_CLOUD-0099FF?style=for-the-badge" alt="multi-cloud">
-<img src="https://img.shields.io/badge/PHILOSOPHY-DevSecOps-FF0099?style=for-the-badge" alt="devsecops">
-
----
-
-</div>
-
-## 🔐 // SYSTEM ACCESS GRANTED
-
-> A strategic leader and technical architect blending deep infrastructure knowledge with secure, automated solutions. Passionate about building scalable, high-availability systems across AWS, GCP, and Aliyun using infrastructure-as-code and DevSecOps principles.
-
----
-
-## 🛠️ // TECHNICAL ARSENAL
-
-### 🌩️ Cloud Platforms
-<div>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP">
-  <img src="https://img.shields.io/badge/Aliyun-FF6A00?style=flat-square&logo=alibaba-cloud&logoColor=white" alt="Aliyun">
-</div>
-
-### 🔧 Infrastructure & Automation
-<div>
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform">
-  <img src="https://img.shields.io/badge/Atlantis-228AE6?style=flat-square&logo=github&logoColor=white" alt="Atlantis">
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible">
-  <img src="https://img.shields.io/badge/ArgoCD-EB5424?style=flat-square&logo=argo&logoColor=white" alt="ArgoCD">
-</div>
-
-### 🔄 CI/CD & Orchestration
-<div>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088F0?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins">
-  <img src="https://img.shields.io/badge/n8n-DF0000?style=flat-square&logo=n8n&logoColor=white" alt="n8n">
-</div>
-
-### 🔒 Security & Quality
-<div>
-  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white" alt="Snyk">
-  <img src="https://img.shields.io/badge/SonarQube-4E98DB?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube">
-</div>
-
-### 💻 Languages & Scripting
-<div>
-  <img src="https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell">
-  <img src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white" alt="YAML">
 </div>
 
 ---
 
-## 📊 // SYSTEM METRICS
+## PROFESSIONAL SUMMARY
+
+Strategic Cloud Infrastructure Engineering Manager with **15+ years** of expertise in Cloud Infrastructure, DevOps, and SRE. Expert at leading cross-functional teams of **17+ engineers** to deliver large-scale migrations on GCP and AWS while maintaining strict financial sector compliance.
 
 ---
 
-## 🎯 // CORE EXPERTISE
+## WORK EXPERIENCE
+
+### ☁️ PT Aliz Technologies Indonesia
+**Senior DevOps Engineer** · *Nov 2025 - Present* · Jakarta, Indonesia
+
+- Executed a large-scale migration for Prudential Indonesia from on-premises to GCP using M2VM, ensuring zero data loss and compliance with financial regulations
+- Conducted cloud-readiness assessments for mixed Windows/Linux environments and optimized cloud landing zones
+- Implemented security controls and governance frameworks across cloud infrastructure to ensure strict compliance with financial data regulations
+
+### 🏦 PT BFI Finance Indonesia
+**Head of Cloud Computing & DevOps/SRE** · *Sep 2023 - May 2025* · Jakarta, Indonesia
+
+- Managed 13-17 engineers across three units, establishing a culture of ownership and reliability through coaching and structured 1:1s
+- Improved deployment efficiency by >20% by standardizing CI/CD pipelines with GitHub Actions and GitOps methodology
+- Directed the hybrid IT strategy spanning on-premises and GCP, aligning infrastructure upgrades with business growth
+- Planned, designed, implemented, and managed hybrid IT environments across on-premises datacenter and Google Cloud Platform (GCP)
+- Led the implementation and adoption of GCP services, including workload migration, cloud-native solutions, and cost optimization strategies
+- Analyzed service/component availability, reliability, and maintainability to drive continuous improvement
+- Ensured security, compliance, and governance across cloud and on-premises environments
+
+### 📱 LinkAja
+**Cloud Architect Senior Specialist (Head Unit IT Architecture)** · *Sep 2019 - Jun 2023* · Jakarta, Indonesia
+
+- Orchestrated the migration of 200+ services to AWS, serving as the primary lead for architecture decisions and system design
+- Spearheaded infrastructure modernization including Kubernetes (EKS) adoption for containerized workloads and Traefik ingress gateway implementation
+- Managed the AWS Region migration from Singapore to Jakarta to meet Bank Indonesia regulatory requirements with zero downtime
+- Migrated AWS ELK stack to Grafana Loki on Kubernetes for improved cost efficiency and operational observability
+
+### ⚡ Bizzy Indonesia
+**Senior DevOps Engineer** · *Dec 2017 - Jun 2019* · Greater Jakarta Area
+
+- AWS services: ECS, EC2, ALB, RDS, Cloudfront, S3, API Gateway, Lambda
+- Implementation full backend microservices architecture using AWS Lambda and API Gateway
+- Docker containerization
+- Jenkins CI/CD pipelines
+- Terraform infrastructure as code
+- Grafana and Icinga2 monitoring
+
+### 💳 Fusion Payments
+**Senior DevOps Engineer** · *Aug 2017 - Nov 2017* · Greater Jakarta Area
+
+- AWS EC2, ELB, VPC, S3, SQS management
+- LDAP administration
+- PCI-DSS 3.2 security implementation
+- Jenkins continuous integration
+- SaltStack deployment automation
+
+### 🏗️ Ebizu
+**Infrastructure Manager** · *Jan 2015 - Jul 2017* · Greater Jakarta Area
+
+- AWS Elastic Beanstalk deployment for application servers
+- AWS infrastructure design and implementation
+- Linux server configuration and administration
+- 24/7 service availability management
+- Server monitoring for peak performance
+- Team leadership and mentorship for System Engineers and Release Engineers
 
 ---
 
-## 🚀 // FEATURED PROJECTS
+## TECHNICAL SKILLS
 
-### Infrastructure as Code
-Automated multi-cloud infrastructure provisioning using Terraform across AWS, GCP, and Aliyun with state management and drift detection.
-
-### CI/CD Pipeline Excellence
-End-to-end continuous integration and deployment pipelines leveraging GitHub Actions, GitLab CI, and Jenkins with security scanning and quality gates.
+| Category | Technologies |
+|----------|-------------|
+| **Agile & Project Management** | Jira, Scrum, Kanban, Stakeholder Communication, Reporting |
+| **Cloud Platforms** | GCP, AWS, Alibaba Cloud, Hybrid Cloud Architecture |
+| **Orchestration & GitOps** | Amazon EKS, GKE, Kubernetes, Docker, ArgoCD, Helm |
+| **Infrastructure as Code** | Terraform, Ansible, Atlantis |
+| **CI/CD** | Jenkins, GitOps, GitHub Actions, GitLab CI |
+| **Monitoring & Observability** | Datadog, Grafana Stack (Loki, Prometheus, Tempo), AWS CloudWatch, AWS CloudWatchLogs, NewRelic, ELK Stack |
+| **Databases** | CloudSQL, Amazon Aurora, RDS, ProxySQL, PostgreSQL, MySQL |
+| **Networking** | ELB, ALB, NLB, VPC, API Gateway, Traefik |
+| **Security & Compliance** | Snyk, VPC Service Controls, PCI-DSS 3.2, ISO-27001, SIEM, Access Control |
 
 ---
 
-## 🌐 // CONNECT WITH ME
+## EDUCATION
+
+### Universitas Islam Indonesia
+**Bachelor's Degree — Information Technology** · *Sep 2001 - Jun 2010*
+
+---
+
+## CERTIFICATIONS
+
+| Certification | Issuer | Year | Credential ID |
+|--------------|--------|------|---------------|
+| 🏆 Professional Cloud Architect Certification | Google Cloud | 2026 | `4c86fd58435e4e2293f9bb4714d1d90f` |
+| 🏆 AWS Certified Solutions Architect - Associate | Amazon Web Services | 2019 | `NK8QEPK2B1EQQNS9` |
+| 🏆 Mikrotik Certified Network Associate (MTCNA) | Citraweb Nusa Infomedia | 2013 | `1311NA555` |
+
+---
+
+## LANGUAGES
+
+- **English** — Professional working proficiency
+- **Bahasa Indonesia** — Native or bilingual proficiency
+
+---
+
+## CONTACT
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/herbiono)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:herbiono@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-**_Building the infrastructure of tomorrow, today._**
-
-<img src="https://img.shields.io/badge/Last%20Updated-2026%2D02%2D27-00FF00?style=flat-square" alt="Updated">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herbiono)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://herbiono.my.id)
 
 </div>

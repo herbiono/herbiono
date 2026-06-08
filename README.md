@@ -19,7 +19,7 @@ Strategic Cloud Infrastructure Engineering Manager with **15+ years** of experti
 ## WORK EXPERIENCE
 
 ### ☁️ PT Aliz Technologies Indonesia
-**Senior DevOps Engineer** · *Nov 2025 - Present* · Jakarta, Indonesia
+**Senior DevOps Engineer** · *Nov 2025 - May 2026* · Jakarta, Indonesia
 
 - Executed a large-scale migration for Prudential Indonesia from on-premises to GCP using M2VM, ensuring zero data loss and compliance with financial regulations
 - Conducted cloud-readiness assessments for mixed Windows/Linux environments and optimized cloud landing zones

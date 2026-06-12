@@ -12,7 +12,7 @@
 
 ## PROFESSIONAL SUMMARY
 
-Strategic Cloud Infrastructure Engineering Manager with **15+ years** of expertise in Cloud Infrastructure, DevOps, and SRE. Expert at leading cross-functional teams of **17+ engineers** to deliver large-scale migrations on GCP and AWS while maintaining strict financial sector compliance.
+Strategic and Hands-on Cloud/DevOps Engineering leader with **15+ years** in Cloud Infrastructure, DevOps, DevSecOps, and SRE, plus 3+ years leading 13-17 engineers across 3 organizational units (System Engineering, DevOps/SRE Engineering, and Platform Engineering). Brings GCP and AWS migration experience, predictable delivery accountability, and mentoring for senior-level engineering growth.
 
 ---
 
@@ -79,15 +79,14 @@ Strategic Cloud Infrastructure Engineering Manager with **15+ years** of experti
 
 | Category | Technologies |
 |----------|-------------|
-| **Agile & Project Management** | Jira, Scrum, Kanban, Stakeholder Communication, Reporting |
-| **Cloud Platforms** | GCP, AWS, Alibaba Cloud, Hybrid Cloud Architecture |
-| **Orchestration & GitOps** | Amazon EKS, GKE, Kubernetes, Docker, ArgoCD, Helm |
-| **Infrastructure as Code** | Terraform, Ansible, Atlantis |
-| **CI/CD** | Jenkins, GitOps, GitHub Actions, GitLab CI |
-| **Monitoring & Observability** | Datadog, Grafana Stack (Loki, Prometheus, Tempo), AWS CloudWatch, AWS CloudWatchLogs, NewRelic, ELK Stack |
+| **Cloud Platforms** | AWS, GCP, Linux, Alibaba Cloud, Hybrid Cloud Architecture |
+| **Containers/Orchestration** | Kubernetes, Docker, Amazon EKS, GKE, Helm, ArgoCD |
+| **IaC/Automation** | Terraform, Ansible, Atlantis |
+| **CI/CD** | Jenkins, GitHub Actions, GitLab CI, GitOps |
+| **Observability** | Datadog, Grafana (Loki, Prometheus, Tempo), AWS CloudWatch, NewRelic, ELK Stack |
+| **Networking** | ELB/ALB/NLB, VPC, VPN, API Gateway, Traefik |
 | **Databases** | CloudSQL, Amazon Aurora, RDS, ProxySQL, PostgreSQL, MySQL |
-| **Networking** | ELB, ALB, NLB, VPC, API Gateway, Traefik |
-| **Security & Compliance** | Snyk, VPC Service Controls, PCI-DSS 3.2, ISO-27001, SIEM, Access Control |
+| **Security/Compliance** | PCI-DSS, ISO-27001, Snyk, VPC Service Controls, SIEM, Access Control |
 
 ---
 
@@ -119,8 +118,8 @@ Strategic Cloud Infrastructure Engineering Manager with **15+ years** of experti
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:herbiono@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herbiono)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://herbiono.my.id)
+<a href="mailto:herbiono@gmail.com" target="_blank" rel="noopener noreferrer">![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/herbiono" target="_blank" rel="noopener noreferrer">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://herbiono.my.id" target="_blank" rel="noopener noreferrer">![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about.me&logoColor=white)</a>
 
 </div>

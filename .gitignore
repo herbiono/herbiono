@@ -1,0 +1,11 @@
+graphify-out/
+.opencode/
+AGENTS.md
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
